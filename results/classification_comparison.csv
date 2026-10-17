@@ -1,0 +1,3 @@
+Comparison table (all values calculated from the Run Log),,,,,,,,,
+"Track A = reproduction against the published score. Track B = controlled comparison, mean and standard deviation over seeds. Std needs at least 2 Track B runs.",,,,,,,,,
+Model,Source,Published acc,Track A test acc,Track A minus published (pp),Track B runs,Track B mean test acc,Track B std (pp),Track B min,Track B max

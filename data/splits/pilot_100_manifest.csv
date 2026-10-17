@@ -1,0 +1,101 @@
+image_id,class,original_filename,copied_filename
+BLS_0210,Bacterial Leaf Spot,Bacterial Leaf Spot (288).jpg,BLS_0210_Bacterial Leaf Spot (288).jpg
+BLS_0281,Bacterial Leaf Spot,Bacterial Leaf Spot (351).jpg,BLS_0281_Bacterial Leaf Spot (351).jpg
+BLS_0034,Bacterial Leaf Spot,Bacterial Leaf Spot (129).jpg,BLS_0034_Bacterial Leaf Spot (129).jpg
+BLS_0211,Bacterial Leaf Spot,Bacterial Leaf Spot (289).jpg,BLS_0211_Bacterial Leaf Spot (289).jpg
+BLS_0094,Bacterial Leaf Spot,Bacterial Leaf Spot (183).jpg,BLS_0094_Bacterial Leaf Spot (183).jpg
+BLS_0085,Bacterial Leaf Spot,Bacterial Leaf Spot (175).jpg,BLS_0085_Bacterial Leaf Spot (175).jpg
+BLS_0330,Bacterial Leaf Spot,Bacterial Leaf Spot (396).jpg,BLS_0330_Bacterial Leaf Spot (396).jpg
+BLS_0095,Bacterial Leaf Spot,Bacterial Leaf Spot (184).jpg,BLS_0095_Bacterial Leaf Spot (184).jpg
+BLS_0267,Bacterial Leaf Spot,Bacterial Leaf Spot (339).jpg,BLS_0267_Bacterial Leaf Spot (339).jpg
+BLS_0127,Bacterial Leaf Spot,Bacterial Leaf Spot (212).jpg,BLS_0127_Bacterial Leaf Spot (212).jpg
+BLS_0010,Bacterial Leaf Spot,Bacterial Leaf Spot (107).jpg,BLS_0010_Bacterial Leaf Spot (107).jpg
+BLS_0362,Bacterial Leaf Spot,Bacterial Leaf Spot (64).jpg,BLS_0362_Bacterial Leaf Spot (64).jpg
+BLS_0057,Bacterial Leaf Spot,Bacterial Leaf Spot (15).jpg,BLS_0057_Bacterial Leaf Spot (15).jpg
+BLS_0073,Bacterial Leaf Spot,Bacterial Leaf Spot (164).jpg,BLS_0073_Bacterial Leaf Spot (164).jpg
+BLS_0133,Bacterial Leaf Spot,Bacterial Leaf Spot (218).jpg,BLS_0133_Bacterial Leaf Spot (218).jpg
+BLS_0043,Bacterial Leaf Spot,Bacterial Leaf Spot (137).jpg,BLS_0043_Bacterial Leaf Spot (137).jpg
+BLS_0279,Bacterial Leaf Spot,Bacterial Leaf Spot (35).jpg,BLS_0279_Bacterial Leaf Spot (35).jpg
+BLS_0377,Bacterial Leaf Spot,Bacterial Leaf Spot (78).jpg,BLS_0377_Bacterial Leaf Spot (78).jpg
+BLS_0232,Bacterial Leaf Spot,Bacterial Leaf Spot (307).jpg,BLS_0232_Bacterial Leaf Spot (307).jpg
+BLS_0386,Bacterial Leaf Spot,Bacterial Leaf Spot (86).jpg,BLS_0386_Bacterial Leaf Spot (86).jpg
+DM_0210,Downy Mildew,Downy Mildew (288).jpg,DM_0210_Downy Mildew (288).jpg
+DM_0281,Downy Mildew,Downy Mildew (351).jpg,DM_0281_Downy Mildew (351).jpg
+DM_0034,Downy Mildew,Downy Mildew (129).jpg,DM_0034_Downy Mildew (129).jpg
+DM_0211,Downy Mildew,Downy Mildew (289).jpg,DM_0211_Downy Mildew (289).jpg
+DM_0094,Downy Mildew,Downy Mildew (183).jpg,DM_0094_Downy Mildew (183).jpg
+DM_0085,Downy Mildew,Downy Mildew (175).jpg,DM_0085_Downy Mildew (175).jpg
+DM_0330,Downy Mildew,Downy Mildew (396).jpg,DM_0330_Downy Mildew (396).jpg
+DM_0095,Downy Mildew,Downy Mildew (184).jpg,DM_0095_Downy Mildew (184).jpg
+DM_0267,Downy Mildew,Downy Mildew (339).jpg,DM_0267_Downy Mildew (339).jpg
+DM_0127,Downy Mildew,Downy Mildew (212).jpg,DM_0127_Downy Mildew (212).jpg
+DM_0010,Downy Mildew,Downy Mildew (107).jpg,DM_0010_Downy Mildew (107).jpg
+DM_0362,Downy Mildew,Downy Mildew (64).jpg,DM_0362_Downy Mildew (64).jpg
+DM_0057,Downy Mildew,Downy Mildew (15).jpg,DM_0057_Downy Mildew (15).jpg
+DM_0073,Downy Mildew,Downy Mildew (164).jpg,DM_0073_Downy Mildew (164).jpg
+DM_0133,Downy Mildew,Downy Mildew (218).jpg,DM_0133_Downy Mildew (218).jpg
+DM_0043,Downy Mildew,Downy Mildew (137).jpg,DM_0043_Downy Mildew (137).jpg
+DM_0279,Downy Mildew,Downy Mildew (35).jpg,DM_0279_Downy Mildew (35).jpg
+DM_0377,Downy Mildew,Downy Mildew (78).jpg,DM_0377_Downy Mildew (78).jpg
+DM_0232,Downy Mildew,Downy Mildew (307).jpg,DM_0232_Downy Mildew (307).jpg
+DM_0386,Downy Mildew,Downy Mildew (86).jpg,DM_0386_Downy Mildew (86).jpg
+HL_0210,Healthy Leaf,Healthy Leaf (288).jpg,HL_0210_Healthy Leaf (288).jpg
+HL_0281,Healthy Leaf,Healthy Leaf (351).jpg,HL_0281_Healthy Leaf (351).jpg
+HL_0034,Healthy Leaf,Healthy Leaf (129).jpg,HL_0034_Healthy Leaf (129).jpg
+HL_0211,Healthy Leaf,Healthy Leaf (289).jpg,HL_0211_Healthy Leaf (289).jpg
+HL_0094,Healthy Leaf,Healthy Leaf (183).jpg,HL_0094_Healthy Leaf (183).jpg
+HL_0085,Healthy Leaf,Healthy Leaf (175).jpg,HL_0085_Healthy Leaf (175).jpg
+HL_0330,Healthy Leaf,Healthy Leaf (396).jpg,HL_0330_Healthy Leaf (396).jpg
+HL_0095,Healthy Leaf,Healthy Leaf (184).jpg,HL_0095_Healthy Leaf (184).jpg
+HL_0267,Healthy Leaf,Healthy Leaf (339).jpg,HL_0267_Healthy Leaf (339).jpg
+HL_0127,Healthy Leaf,Healthy Leaf (212).jpg,HL_0127_Healthy Leaf (212).jpg
+HL_0010,Healthy Leaf,Healthy Leaf (107).jpg,HL_0010_Healthy Leaf (107).jpg
+HL_0362,Healthy Leaf,Healthy Leaf (64).jpg,HL_0362_Healthy Leaf (64).jpg
+HL_0057,Healthy Leaf,Healthy Leaf (15).jpg,HL_0057_Healthy Leaf (15).jpg
+HL_0073,Healthy Leaf,Healthy Leaf (164).jpg,HL_0073_Healthy Leaf (164).jpg
+HL_0133,Healthy Leaf,Healthy Leaf (218).jpg,HL_0133_Healthy Leaf (218).jpg
+HL_0043,Healthy Leaf,Healthy Leaf (137).jpg,HL_0043_Healthy Leaf (137).jpg
+HL_0279,Healthy Leaf,Healthy Leaf (35).jpg,HL_0279_Healthy Leaf (35).jpg
+HL_0377,Healthy Leaf,Healthy Leaf (78).jpg,HL_0377_Healthy Leaf (78).jpg
+HL_0232,Healthy Leaf,Healthy Leaf (307).jpg,HL_0232_Healthy Leaf (307).jpg
+HL_0386,Healthy Leaf,Healthy Leaf (86).jpg,HL_0386_Healthy Leaf (86).jpg
+MD_0210,Mosaic Disease,Mosaic Disease (288).jpg,MD_0210_Mosaic Disease (288).jpg
+MD_0281,Mosaic Disease,Mosaic Disease (351).jpg,MD_0281_Mosaic Disease (351).jpg
+MD_0034,Mosaic Disease,Mosaic Disease (129).jpg,MD_0034_Mosaic Disease (129).jpg
+MD_0211,Mosaic Disease,Mosaic Disease (289).jpg,MD_0211_Mosaic Disease (289).jpg
+MD_0094,Mosaic Disease,Mosaic Disease (183).jpg,MD_0094_Mosaic Disease (183).jpg
+MD_0085,Mosaic Disease,Mosaic Disease (175).jpg,MD_0085_Mosaic Disease (175).jpg
+MD_0330,Mosaic Disease,Mosaic Disease (396).jpg,MD_0330_Mosaic Disease (396).jpg
+MD_0095,Mosaic Disease,Mosaic Disease (184).jpg,MD_0095_Mosaic Disease (184).jpg
+MD_0267,Mosaic Disease,Mosaic Disease (339).jpg,MD_0267_Mosaic Disease (339).jpg
+MD_0127,Mosaic Disease,Mosaic Disease (212).jpg,MD_0127_Mosaic Disease (212).jpg
+MD_0010,Mosaic Disease,Mosaic Disease (107).jpg,MD_0010_Mosaic Disease (107).jpg
+MD_0362,Mosaic Disease,Mosaic Disease (64).jpg,MD_0362_Mosaic Disease (64).jpg
+MD_0057,Mosaic Disease,Mosaic Disease (15).jpg,MD_0057_Mosaic Disease (15).jpg
+MD_0073,Mosaic Disease,Mosaic Disease (164).jpg,MD_0073_Mosaic Disease (164).jpg
+MD_0133,Mosaic Disease,Mosaic Disease (218).jpg,MD_0133_Mosaic Disease (218).jpg
+MD_0043,Mosaic Disease,Mosaic Disease (137).jpg,MD_0043_Mosaic Disease (137).jpg
+MD_0279,Mosaic Disease,Mosaic Disease (35).jpg,MD_0279_Mosaic Disease (35).jpg
+MD_0377,Mosaic Disease,Mosaic Disease (78).jpg,MD_0377_Mosaic Disease (78).jpg
+MD_0232,Mosaic Disease,Mosaic Disease (307).jpg,MD_0232_Mosaic Disease (307).jpg
+MD_0386,Mosaic Disease,Mosaic Disease (86).jpg,MD_0386_Mosaic Disease (86).jpg
+PM_0210,Powdery_Mildew,Powdery_Mildew (288).jpg,PM_0210_Powdery_Mildew (288).jpg
+PM_0281,Powdery_Mildew,Powdery_Mildew (351).jpg,PM_0281_Powdery_Mildew (351).jpg
+PM_0034,Powdery_Mildew,Powdery_Mildew (129).jpg,PM_0034_Powdery_Mildew (129).jpg
+PM_0211,Powdery_Mildew,Powdery_Mildew (289).jpg,PM_0211_Powdery_Mildew (289).jpg
+PM_0094,Powdery_Mildew,Powdery_Mildew (183).jpg,PM_0094_Powdery_Mildew (183).jpg
+PM_0085,Powdery_Mildew,Powdery_Mildew (175).jpg,PM_0085_Powdery_Mildew (175).jpg
+PM_0330,Powdery_Mildew,Powdery_Mildew (396).jpg,PM_0330_Powdery_Mildew (396).jpg
+PM_0095,Powdery_Mildew,Powdery_Mildew (184).jpg,PM_0095_Powdery_Mildew (184).jpg
+PM_0267,Powdery_Mildew,Powdery_Mildew (339).jpg,PM_0267_Powdery_Mildew (339).jpg
+PM_0127,Powdery_Mildew,Powdery_Mildew (212).jpg,PM_0127_Powdery_Mildew (212).jpg
+PM_0010,Powdery_Mildew,Powdery_Mildew (107).jpg,PM_0010_Powdery_Mildew (107).jpg
+PM_0362,Powdery_Mildew,Powdery_Mildew (64).jpg,PM_0362_Powdery_Mildew (64).jpg
+PM_0057,Powdery_Mildew,Powdery_Mildew (15).jpg,PM_0057_Powdery_Mildew (15).jpg
+PM_0073,Powdery_Mildew,Powdery_Mildew (164).jpg,PM_0073_Powdery_Mildew (164).jpg
+PM_0133,Powdery_Mildew,Powdery_Mildew (218).jpg,PM_0133_Powdery_Mildew (218).jpg
+PM_0043,Powdery_Mildew,Powdery_Mildew (137).jpg,PM_0043_Powdery_Mildew (137).jpg
+PM_0279,Powdery_Mildew,Powdery_Mildew (35).jpg,PM_0279_Powdery_Mildew (35).jpg
+PM_0377,Powdery_Mildew,Powdery_Mildew (78).jpg,PM_0377_Powdery_Mildew (78).jpg
+PM_0232,Powdery_Mildew,Powdery_Mildew (307).jpg,PM_0232_Powdery_Mildew (307).jpg
+PM_0386,Powdery_Mildew,Powdery_Mildew (86).jpg,PM_0386_Powdery_Mildew (86).jpg
